@@ -1,4 +1,4 @@
-Empresa;1_Valor_(R$);1_Data_de_Vencimento;1_Data_de_Pagamento;2_Valor_(R$);2_Data_de_Vencimento;2_Data_de_Pagamento;3_Valor_(R$);3_Data_de_Vencimento;3_Data_de_Pagamento;Protesto
+Empresa;1_Valor;1_Data_de_Vencimento;1_Data_de_Pagamento;2_Valor;2_Data_de_Vencimento;2_Data_de_Pagamento;3_Valor;3_Data_de_Vencimento;3_Data_de_Pagamento;Protesto
 Supermercado_Bom_Preo;3600;2024-05-03;2024-05-08;1500;2024-05-13;2024-05-18;4800;2024-05-23;2024-06-30;sim
 Distribuidora_Beta;7500;2024-05-02;2024-05-07;2100;2024-05-12;2024-05-17;3900;2024-05-22;2024-05-27;sim
 Supermercado_Popular;1750;2024-05-04;2024-05-09;2650;2024-05-14;2024-05-19;5200;2024-05-24;2024-08-31;nao
